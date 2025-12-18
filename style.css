@@ -1,0 +1,53 @@
+/* table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+} */ */
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.div1{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+.div2{
+    background-color: rgb(231, 225, 225);
+    text-align: center;
+    color: green;
+    border-radius: 10px;
+    padding: 10px;
+}
+.div3{
+    background-color: greenyellow;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.div4{
+    background-color: yellowgreen;
+    text-align: center;
+    color: red;
+    border-radius: 10px;
+    padding: 10px;
+}
